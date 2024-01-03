@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @BrinaDancer
 
-- 👀 I’m interested in impoving my coding skills and learning new programming languages. 
+A	Passionate Creative Professional: Leveraging a well-honed creativity from the theatre and entertainment industry to excel in website development, graphic design, and social media campaign development.
+A Knowledge-Sharing Enthusiast: Finding great satisfaction in sharing expertise and assisting others in their technological pursuits, demonstrated through guest lectures at the University of Tennessee on topics like social media marketing, digital advertising, and web development.
+A Computer Science Master's Candidate: Currently pursuing a master's degree in computer science at PACE University, dedicated to furthering education and expanding skill sets in the dynamic field of technology.
 
-- 🌱 I’m currently learning python and javascripting for web desvlopment. 
-
-- 💞️ I’m looking to collaborate on any projects that deal with web develpoment. 
-
-- 📫 How to reach me though my Twitter @brinadancer. 
 
 Thanks! 
